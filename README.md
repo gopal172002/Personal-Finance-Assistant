@@ -27,25 +27,25 @@ The Personal Finance Assistant is a full-stack application designed to help user
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
 **1. Login Page**  
-![Login Page](Login.png)
+![Login Page](frontend/public/Login.png)
 
 **2. Register Page**  
-![Register Page](Register.png)
+![Register Page](frontend/public/Register.png)
 
 **3. Dashboard Page**  
-![Dashboard Page](Dashboard.png)
+![Dashboard Page](frontend/public/Dashboard.png)
 
 **4. Transactions Table**  
-![Transactions Table](Transactionstable.png)
+![Transactions Table](frontend/public/Transactionstable.png)
 
 **5. Upload Section**  
-![Upload Section](UploadSection.png)
+![Upload Section](frontend/public/UploadSection.png)
 
 **6. Graph Page**  
-![Graph Visuals](Graph.png)
+![Graph Page](frontend/public/Graph.png)
 
 
 ---
