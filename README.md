@@ -39,7 +39,7 @@ The Personal Finance Assistant is a full-stack application designed to help user
 ![Dashboard Page](frontend/public/Dashboard.png)
 
 **4. Transactions Table**  
-![Transactions Table](frontend/public/Transactionstable.png)
+![Transactions Table](frontend/public/TransactionsTable.png)
 
 **5. Upload Section**  
 ![Upload Section](frontend/public/UploadSection.png)
